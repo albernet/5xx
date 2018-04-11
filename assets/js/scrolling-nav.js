@@ -26,4 +26,4 @@
     offset: 54
   });
 
-})(jQuery); // End of use strict
+})
